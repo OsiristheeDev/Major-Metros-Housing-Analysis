@@ -1,0 +1,15 @@
+[project]
+name = "housing-examiner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "nbformat>=4.2.0",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.0",
+    "plotly>=6.5.2",
+    "statsmodels>=0.14.6",
+    "xlrd>=2.0.2",
+]

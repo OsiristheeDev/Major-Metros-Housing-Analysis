@@ -14,7 +14,7 @@ Read the full analysis here: https://www.tajairi.com/Articles/Metro_Housing_Anal
 ## How to Run
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/OsiristheeDev/Major-Metros-Housing-Analysis>
 cd housing_examiner
 uv sync
 uv run jupyter notebook Major_Metros_housing_permitted.ipynb
